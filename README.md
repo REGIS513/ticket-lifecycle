@@ -39,7 +39,7 @@ While in the admin tab of osTicket, you are able to change the level of the tick
 <img src="https://i.imgur.com/tVEFwN7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within the admin panel of osTicket, click on manage SLA's to choose the severance of the ticket.
+Within the admin panel of osTicket, click on manage SLA's to choose the severeness of the ticket.
 </p>
 <br />
 
@@ -47,6 +47,6 @@ Within the admin panel of osTicket, click on manage SLA's to choose the severanc
 <img src="https://i.imgur.com/mYW7s7S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the agent panel of osTicket, you can see here that our first ticket was created.
 </p>
 <br />
